@@ -84,3 +84,41 @@ epochs26-day02-sql-analysis/
 ## 📌 Conclusion
 
 This project demonstrates how SQL and Pandas can be combined to answer business questions, analyze sales performance, and derive meaningful insights from a relational database.
+
+
+...
+## 📌 Conclusion
+
+This project demonstrates how SQL and Pandas can be combined to answer business questions, analyze sales performance, and derive meaningful insights from a relational database.
+
+---
+
+## 📸 SQL Query Outputs
+
+### Query 1: Top 10 Selling Products
+
+![Top Selling Products](images/query1_top_products.png)
+
+---
+
+### Query 2: Top 10 Customers by Revenue
+
+![Top Customers](images/query2_top_customers.png)
+
+---
+
+### Query 3: Monthly Sales Trends
+
+![Monthly Sales](images/query3_monthly_sales.png)
+
+---
+
+### Query 4: Best Performing Product Categories
+
+![Best Categories](images/query4_categories.png)
+
+---
+
+### Query 5: Customer Purchase Frequency
+
+![Purchase Frequency](images/query5_purchase_frequency.png)
